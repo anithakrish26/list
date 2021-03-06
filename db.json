@@ -1,0 +1,25 @@
+{
+  "listItems" : [
+    {
+      "item": "Pick up the order",
+      "status": "pending"
+    },
+    {
+      "item": "Answer email",
+      "status": "pending"
+    },
+    {
+      "item": "clean the book rack",
+      "status": "pending"
+    },
+    {
+      "item": "prepare presentation and supporting documents",
+      "status": "pending"
+    },
+    {
+      "item": "Call Danny",
+      "status": "pending"
+    },
+    
+  ]
+}
