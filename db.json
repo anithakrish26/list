@@ -23,8 +23,7 @@
     {
       "id": 5,
       "item": "Call Danny",
-      "status": "pending",
-      "test": "test"
+      "status": "pending"
     }
     
   ]
